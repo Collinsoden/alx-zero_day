@@ -1,3 +1,3 @@
-My first readme
-I have updated this now
-My first readme
+First ALX Project
+
+Day 0 projects...
